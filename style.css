@@ -1,0 +1,54 @@
+@media (max-width: 500px) {
+textarea {
+  height: 500px;
+  line-height:125;
+}
+
+}
+  textarea {
+    background-color: #000000;
+    border: 1px solid #000000;
+    color: #ffffff;
+    padding: 8px;
+    font-family: courier new;
+}
+
+body {
+  background: url("https://tenor.com/view/color-purple-shapes-gif-14266906.gif");
+	background-size: cover;
+	background-position: center;
+    }
+  
+
+
+input {
+    background-color: #f7f4f4;
+    color: #ffffff;
+}
+
+button {
+	background-color:#000000;
+	cursor:pointer;
+	color:#b9b13e;
+	font-family:helvetica;
+	font-size:32px;
+	padding:100px 200px;
+	text-decoration:blueviolet;
+  background-image: url(https://tenor.com/view/kunt-black-kunt-black-cat-called-kunt-gif-15888657.gif);
+  background-position: right;
+padding-right:25px; 
+  
+}
+
+
+element {
+	border-width: 10px;
+   	border: 10px solid black;
+}
+
+button:active {
+	position:relative;
+	top:10px;
+}
+
+
